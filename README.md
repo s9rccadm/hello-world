@@ -1,2 +1,2 @@
 # hello-world
-Let's start making some tools.
+Let's start writing!
