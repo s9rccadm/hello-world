@@ -1,3 +1,3 @@
 #!/usr/bin/python
 
-print"%s" % ("hello world!")
+print"%s" % ("Goodbye world!")
